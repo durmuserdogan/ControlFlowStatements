@@ -23,6 +23,13 @@ public class Main {
         System.out.println(sum);
 */
 
-        System.out.println(SumOdd.sumOdd(100,1000));
+        //System.out.println(SumOdd.sumOdd(100,1000));
+        //System.out.println(DigitSumChallenge.sumDigits(1125));
+
+/*        //Number Palindrome
+        boolean t = NumberPalindrome.isPalindrome(707);
+        System.out.println(t);*/
+
+
     }
 }
