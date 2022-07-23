@@ -39,10 +39,16 @@ public class Main {
         int i =EvenDigitSum.getEvenDigitSum(-22);
         System.out.println(i);*/
 
-        //Shared Digit
+/*        //Shared Digit
         //SharedDigit.hasSharedDigit(12,23);
         boolean t =SharedDigit.hasSharedDigit(12,43);
+        System.out.println(t);*/
+
+        //Last Digit Checker
+        boolean t= LastDigitChecker.hasSameLastDigit(9,99,999);
         System.out.println(t);
+        boolean r=LastDigitChecker.isValid(1051);
+        System.out.println(r);
 
     }
 }
