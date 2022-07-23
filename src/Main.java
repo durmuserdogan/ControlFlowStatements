@@ -30,6 +30,10 @@ public class Main {
         boolean t = NumberPalindrome.isPalindrome(707);
         System.out.println(t);*/
 
+        //FirstAndLastDigitSum
+        //FirstAndLastDigitSum.sumFirstAndLastDigit(252);
+        int i=FirstAndLastDigitSum.sumFirstAndLastDigit(-5);
+        System.out.println(i);
 
     }
 }
