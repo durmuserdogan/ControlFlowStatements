@@ -44,11 +44,16 @@ public class Main {
         boolean t =SharedDigit.hasSharedDigit(12,43);
         System.out.println(t);*/
 
-        //Last Digit Checker
+/*        //Last Digit Checker
         boolean t= LastDigitChecker.hasSameLastDigit(9,99,999);
         System.out.println(t);
         boolean r=LastDigitChecker.isValid(1051);
-        System.out.println(r);
+        System.out.println(r);*/
+
+        // Greatest Common Divisior
+        int y=GreatestCommonDivisior.getGreatestCommonDivisor(25,15);
+        System.out.println(y);
+
 
     }
 }
