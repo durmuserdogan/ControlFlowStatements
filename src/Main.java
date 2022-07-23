@@ -35,11 +35,14 @@ public class Main {
         int i=FirstAndLastDigitSum.sumFirstAndLastDigit(-5);
         System.out.println(i);*/
 
-        //Even Digit Sum
+/*        //Even Digit Sum
         int i =EvenDigitSum.getEvenDigitSum(-22);
-        System.out.println(i);
+        System.out.println(i);*/
 
-
+        //Shared Digit
+        //SharedDigit.hasSharedDigit(12,23);
+        boolean t =SharedDigit.hasSharedDigit(15,55);
+        System.out.println(t);
 
     }
 }
