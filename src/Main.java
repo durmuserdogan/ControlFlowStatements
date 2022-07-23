@@ -41,7 +41,7 @@ public class Main {
 
         //Shared Digit
         //SharedDigit.hasSharedDigit(12,23);
-        boolean t =SharedDigit.hasSharedDigit(15,55);
+        boolean t =SharedDigit.hasSharedDigit(12,43);
         System.out.println(t);
 
     }
