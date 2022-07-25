@@ -54,8 +54,14 @@ public class Main {
         int y=GreatestCommonDivisior.getGreatestCommonDivisor(25,15);
         System.out.println(y);*/
 
+/*
         //All Factors
         AllFactors.printFactors(6);
+*/
+
+        // Perfect Number
+        boolean t=PerfectNumber.isPerfectNumber(5);
+        System.out.println(t);
 
 
 
