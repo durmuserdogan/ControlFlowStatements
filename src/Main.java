@@ -50,9 +50,13 @@ public class Main {
         boolean r=LastDigitChecker.isValid(1051);
         System.out.println(r);*/
 
-        // Greatest Common Divisior
+/*        // Greatest Common Divisior
         int y=GreatestCommonDivisior.getGreatestCommonDivisor(25,15);
-        System.out.println(y);
+        System.out.println(y);*/
+
+        //All Factors
+        AllFactors.printFactors(6);
+
 
 
     }
