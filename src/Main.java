@@ -59,9 +59,12 @@ public class Main {
         AllFactors.printFactors(6);
 */
 
-        // Perfect Number
+/*        // Perfect Number
         boolean t=PerfectNumber.isPerfectNumber(5);
-        System.out.println(t);
+        System.out.println(t);*/
+
+        //NumberToWords
+        NumberToWords.numberToWords(123);
 
 
 
