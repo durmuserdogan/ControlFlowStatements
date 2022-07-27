@@ -63,8 +63,11 @@ public class Main {
         boolean t=PerfectNumber.isPerfectNumber(5);
         System.out.println(t);*/
 
-        //NumberToWords
-        NumberToWords.numberToWords(123);
+/*        //NumberToWords
+        NumberToWords.numberToWords(123);*/
+
+        boolean t=FlourPackProblem.canPack(-3,2,12);
+        System.out.println(t);
 
 
 
