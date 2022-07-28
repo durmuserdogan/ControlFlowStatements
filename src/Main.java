@@ -69,9 +69,14 @@ public class Main {
 /*        boolean t=FlourPackProblem.canPack(-3,2,12);
         System.out.println(t);*/
 
-        //Largest Prime
+/*        //Largest Prime
         int i=LargestPrime.getLargestPrime(217);
-        System.out.println(i);
+        System.out.println(i);*/
+
+        // Diagonal Star
+        DiagonalStar.printSquareStar(24);
+
+
 
 
 
