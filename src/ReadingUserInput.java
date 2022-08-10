@@ -26,7 +26,6 @@ public class ReadingUserInput {
         System.out.println("sum is "+ sum);
         scanner.close();
 
-
     }
 
 

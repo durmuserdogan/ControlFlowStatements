@@ -90,7 +90,11 @@ public class Main {
         System.out.println("Your name is " + name + ", and you are "+ age+ " years old. ");
         scanner.close();*/
 
-        ReadingUserInput.nextInt();
+/*        //Reading user input challenge
+        ReadingUserInput.nextInt();*/
+
+        //Min and Max Challenge
+        MinAndMaxChallenge.minmax();
 
 
 
