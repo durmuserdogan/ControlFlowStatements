@@ -14,7 +14,7 @@ public class InputCalculator {
             if(isInt){
                 int number = scanner.nextInt();
                 sum+=number;
-                avg=Math.round(sum/i);
+                avg=Math.round((double)sum/i);
 
                 i++;
             }
