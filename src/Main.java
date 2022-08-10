@@ -96,8 +96,12 @@ public class Main {
 /*        //Min and Max Challenge
         MinAndMaxChallenge.minmax();*/
 
-        // Input Calculator
-        InputCalculator.inputThenPrintSumAndAverage();
+/*        // Input Calculator
+        InputCalculator.inputThenPrintSumAndAverage();*/
+
+        //Paint Job ex.
+        int i=PaintJob.getBucketCount(3.26,0.75);
+        System.out.println(i);
 
 
 
