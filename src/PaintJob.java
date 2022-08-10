@@ -8,7 +8,7 @@ public class PaintJob {
             double rbuckets=0;
             rbuckets=((double)area/areaPerBucket)-extraBuckets;
 
-            return (int)Math.round(rbuckets);
+            return (int)Math.ceil(rbuckets);
 
         }
 
