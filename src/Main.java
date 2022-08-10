@@ -93,8 +93,11 @@ public class Main {
 /*        //Reading user input challenge
         ReadingUserInput.nextInt();*/
 
-        //Min and Max Challenge
-        MinAndMaxChallenge.minmax();
+/*        //Min and Max Challenge
+        MinAndMaxChallenge.minmax();*/
+
+        // Input Calculator
+        InputCalculator.inputThenPrintSumAndAverage();
 
 
 

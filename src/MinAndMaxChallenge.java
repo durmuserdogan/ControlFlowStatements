@@ -33,7 +33,7 @@ public class MinAndMaxChallenge {
                 //System.out.println("Invalid value");
                 break;
             }
-            //scanner.nextLine(); //handle input
+            scanner.nextLine(); //handle input
         }
         System.out.println("min= "+min+ ", max="+max);
         scanner.close();
